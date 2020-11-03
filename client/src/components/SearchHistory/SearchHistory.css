@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.search_history {
+  list-style: none;
+  width: 100%;
+  margin-top: 85.3px;
+  padding: 10px;
+  justify-content: center;
+  text-align: center;
+}
+
+.search_history_title {
+  background: #fff;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.884);
+  text-decoration: none;
+  color: #f55a00;
+  border-radius: 5px;
+  margin: 0 10px;
+  margin-bottom: 10px;
+  border: #f55a00 solid 2px;
+}
+
+.searched_item {
+  color: #000;
+  font-size: 25px;
+  border-radius: 5px;
+  padding-top: 10px;
+  transition: 0.2s ease-out;
+}
