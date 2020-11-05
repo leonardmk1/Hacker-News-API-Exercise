@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hacker-News-API-Exercise/static/css/main.35cc67fe.chunk.css",
+    "main.js": "/Hacker-News-API-Exercise/static/js/main.ab3d2ecb.chunk.js",
+    "main.js.map": "/Hacker-News-API-Exercise/static/js/main.ab3d2ecb.chunk.js.map",
+    "runtime-main.js": "/Hacker-News-API-Exercise/static/js/runtime-main.1c2a5ebe.js",
+    "runtime-main.js.map": "/Hacker-News-API-Exercise/static/js/runtime-main.1c2a5ebe.js.map",
+    "static/js/2.ad166ca0.chunk.js": "/Hacker-News-API-Exercise/static/js/2.ad166ca0.chunk.js",
+    "static/js/2.ad166ca0.chunk.js.map": "/Hacker-News-API-Exercise/static/js/2.ad166ca0.chunk.js.map",
+    "static/js/3.d18b8935.chunk.js": "/Hacker-News-API-Exercise/static/js/3.d18b8935.chunk.js",
+    "static/js/3.d18b8935.chunk.js.map": "/Hacker-News-API-Exercise/static/js/3.d18b8935.chunk.js.map",
+    "index.html": "/Hacker-News-API-Exercise/index.html",
+    "static/css/main.35cc67fe.chunk.css.map": "/Hacker-News-API-Exercise/static/css/main.35cc67fe.chunk.css.map",
+    "static/js/2.ad166ca0.chunk.js.LICENSE.txt": "/Hacker-News-API-Exercise/static/js/2.ad166ca0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c2a5ebe.js",
+    "static/js/2.ad166ca0.chunk.js",
+    "static/css/main.35cc67fe.chunk.css",
+    "static/js/main.ab3d2ecb.chunk.js"
+  ]
+}
