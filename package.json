@@ -1,10 +1,6 @@
 {
-  "name": "Hacker-News-API-Exercise",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/leonardmk1/Hacker-News-API-Exercise.git",
-  "author": "Matthew Leonard <leonard.matthewk@gmail.com>",
-  "license": "MIT",
+  "name": "client",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
